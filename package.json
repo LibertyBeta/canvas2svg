@@ -1,5 +1,5 @@
 {
-  "name": "canvas2svg",
+  "name": "@libertybeta/canvas2svg",
   "version": "1.0.19",
   "description": "canvas2svg",
   "main": "canvas2svg.js",
